@@ -1,0 +1,84 @@
+.logo{
+    text-align: center;
+    padding-top: 20px;
+}
+.title{
+    font-size: 40px;
+    color: red;
+}
+.heading {
+    padding-bottom: 10%;
+}
+.entry-fields {
+    float: left;
+   
+ width: 50%;
+}
+.details input {
+    display: block;
+    width: 45%;
+    height: 45px;
+    margin-bottom: 23px;
+}
+.details select,.details input {
+    padding: 0px 0px 0px 15px;
+}
+.details select {
+    width: 48%;
+    height: 50px;
+    margin: 23px 0px;
+}
+.gender input{
+    display: inline;
+}
+.image-para {
+    float: left;
+    width: 50%;
+}
+.para p {
+    font-size: 18px;
+}
+.color {
+    background-color: goldenrod;
+    text-align: justify;
+    padding: 20px;
+    width: 30%;
+    position: relative;
+    left: 57%;
+}
+.yoga {
+    position: relative;
+    bottom: 107px;
+    left: 38px;
+}
+.para {
+    margin-top: -70px;
+}
+input::placeholder{
+    color: black;
+}
+.medical.details input {
+    padding: 0px 1px 71px 15px;
+}
+.button {
+    padding-bottom: 62px;
+    margin-left: 15%;
+}
+.button input {
+    padding: 10px 50px;
+    background-color: goldenrod;
+    border: none;
+    font-size: 19px;
+}
+
+.address {
+    text-align: center;
+    margin-top: 79px;
+    margin-bottom: 40px;
+}
+.address h3 {
+    margin: 0px;
+}
+span{
+color:red;
+}

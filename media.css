@@ -1,0 +1,88 @@
+@media screen and (max-width:1400px) {
+    .button {
+        margin-left: 13%;
+    }
+    .color {
+        left: 52%;
+        width: 37%;
+    }
+}
+
+@media screen and (max-width:1200px) {
+    .details input {
+        width: 53%;
+    }
+    .details select {
+        width: 56%;
+    }
+    .button {
+        margin-left: 15%;
+    }
+    .color {
+        left: 40%;
+        width: 43%;
+    }
+}
+
+@media screen and (max-width:992px) {
+    .color {
+        left: 29%;
+        width: 52%;
+    }
+    .details input {
+        width: 60%;
+    }
+    .details select {
+        width: 64%;
+    }
+}
+
+@media screen and (max-width:768px) {
+    .color {
+        left: 7%;
+        width: 68%;
+    }
+    .details input {
+        width: 78%;
+    }
+    .details select {
+        width: 83%;
+    }
+    .button {
+        margin-left: 21%;
+    }
+}
+
+@media screen and (max-width:576px) {
+    .image-para {
+        float: none;
+        width: 100%;
+        padding-top: 15%;
+    }
+    .color {
+        left: 20%;
+        width: 50%;
+    }
+    .yoga {
+        left: 33px;
+    }
+    .entry-fields {
+        float: none;
+        padding-top: 8%;
+        width: 70%;
+        margin-left: 20%;
+    }
+    .details input {
+        width: 80%;
+    }
+    .details select {
+        width: 60%;
+    }
+    .details select {
+        width: 86%;
+    }
+    .button {
+        margin-left: 18%;
+        padding-bottom: 0px;
+    }
+}
